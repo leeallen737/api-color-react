@@ -1,0 +1,4 @@
+.colorContainer {
+    display: flex;
+    flex-wrap: wrap;
+}
